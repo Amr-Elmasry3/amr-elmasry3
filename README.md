@@ -10,8 +10,8 @@ I build high-performance websites with React, specializing in:
 
 ## 🔧 My Core Toolkit
 - **React.js** (Hooks, Context API)
+- **Redux, Axios, Vite** 
 - **JavaScript (ES6+), (OOP)**
-- **Redux, Axios, Vite**
 - **HTML5, CSS3 & Sass** (Responsive Design)
 - **Material UI, Bootstrap, Tailwind Css**
 - **Data Structures and Algorithms**
