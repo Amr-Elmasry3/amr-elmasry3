@@ -11,12 +11,10 @@ I build high-performance websites with React, specializing in:
 ---
 
 ## 🔧 My Core Toolkit
-- **React.js** (Hooks, Context API)
-- **Redux, Axios, Vite** 
-- **JavaScript (ES6+), (OOP)**
-- **HTML5, CSS3 & Sass** (Responsive Design)
-- **Material UI, Bootstrap, Tailwind Css**
-- **Data Structures and Algorithms**
+- Technical Skills: HTML5, CSS3, SASS, JavaScript(ES6+)
+- Frameworks & Libraries: React, React Router, Redux, Axios, Formik & Yub, i18next, MUI, Bootstrap, Tailwind Css
+- Tools: Git & Github, Vite
+- Advanced Concepts: DataStructures & Algorithms, OOP
 
 ---
 
