@@ -1,50 +1,101 @@
-# 👋 Hello there!  
-I'm **Amr Elmasry** | Front-End React Developer
+<!-- Typing Animation --><h1 align="center">Hi 👋, I'm Amr Elmasry</h1><p align="center">
+Frontend Developer specializing in <b>React.js</b>, <b>Next.js</b>, and <b>TypeScript</b>
+</p><p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications"/>
+</a>
+</p>---
 
-Enthusiastic front-end developer (recent graduate) with a strong understanding of HTML5, CSS3 and JavaScript. Developed 5+ projects using React.js and Responsive Design, including an [e-commerce website] with [real-time cart updates]. Eager to join a team where I can contribute to building user-friendly web applications while expanding my expertise. Committed to learning other technologies such as Next.js and TypeScript to stay at the forefront of web development.
+👨‍💻 About Me
 
-I build high-performance websites with React, specializing in:
-- 🚀 Optimized user experiences  
-- 🛠️ Clean, maintainable code architecture  
-- 💻 Responsive, pixel-perfect implementations  
-
----
-
-## 🔧 My Core Toolkit
-- Technical Skills: HTML5, CSS3, SASS, JavaScript(ES6+)
-- Frameworks & Libraries: React, React Router, Redux, Axios, Formik & Yub, i18next, MUI, Bootstrap, Tailwind Css
-- Tools: Git & Github, Vite
-- Advanced Concepts: DataStructures & Algorithms, OOP
+- Frontend Developer with hands-on experience in React.js, Next.js, and TypeScript
+- Passionate about building responsive and real-time web applications
+- Experienced with modern UI frameworks and state management
+- Always improving my skills in modern frontend technologies
 
 ---
 
-## 🎯 My Development Approach
-- Performance-optimized solutions  
-- Pixel-perfect UI implementation    
-- Continuous skills refinement  
+🚀 Tech Stack
+
+Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>Styling
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/>
+</p>Libraries & Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>Technologies I also work with:
+Supabase, Axios, React Router, React Hook Form, Zod, Formik, Yup, I18next
 
 ---
 
-## 🌱 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/amr-elmasry66)
-- [Portfolio](https://amr-elmasry3.github.io/portfolio)
+📌 Featured Projects
+
+💬 Yalla Chat – Realtime Chat Application
+
+WhatsApp-like chat application supporting real-time messaging with text, images, audio, and video.
+
+Tech Stack
+Next.js • TypeScript • Supabase
+
+Live Demo
+https://amr-elmasry3.github.io/yallachat/
+
+Repository
+https://github.com/Amr-Elmasry3
 
 ---
 
-> Always seeking new opportunities to collaborate on innovative projects and tackle complex front-end challenges.  
-> **Let's build something amazing together!**
+🛒 Grogin Grocery – E-commerce Web Application
 
-<!--
-**Amr-Elmasry3/amr-elmasry3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Multi-page e-commerce platform with product filtering, cart, and wishlist management.
 
-Here are some ideas to get you started:
+Tech Stack
+React • Redux • React Router
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Live Demo
+https://amr-elmasry3.github.io/grogin/
+
+---
+
+⌨️ Typing Speed Test – JavaScript Game
+
+Interactive typing speed test game built with vanilla JavaScript.
+
+Live Demo
+https://amr-elmasry3.github.io/typing-speed-app/
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amr-Elmasry3&show_icons=true&theme=tokyonight"/>
+</p><p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Elmasry3&layout=compact&theme=tokyonight"/>
+</p>---
+
+📫 Connect With Me
+
+LinkedIn
+https://www.linkedin.com/in/amr-elmasry66
+
+Portfolio
+https://amr-elmasry3.github.io/portfolio
+
+Email
+amrelmasry66@gmail.com
