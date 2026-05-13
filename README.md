@@ -1,34 +1,60 @@
-# 👋 Hello there!  
-I'm **Amr Elmasry** | Front-End React Developer
+1- Profile Github
+# Hi 👋, I'm Amr Elmasry
 
-I build high-performance websites with React, specializing in:
-- 🚀 Optimized user experiences  
-- 🛠️ Clean, maintainable code architecture  
-- 💻 Responsive, pixel-perfect implementations  
+💻 Frontend Developer (React.js & Next.js)  
+📍 Egypt  
 
 ---
 
-## 🔧 My Core Toolkit
-- **React.js** (Hooks, Redux, Context API)
-- **JavaScript (ES6+)**
-- **HTML5, CSS3 & Sass** (Responsive Design)
-- **Material UI, Bootstrap**
-- **Redux, Axios, Vite, Tailwind CSS, OOP, Data Structures and Algorithms**
+## 🚀 About Me
+I'm a Frontend Developer with hands-on experience building modern web applications using React.js and Next.js.
+
+I focus on creating responsive, user-friendly interfaces, while continuously improving my skills through real-world projects and writing clean, maintainable code.
 
 ---
 
-## 🎯 My Development Approach
-- Performance-optimized solutions  
-- Pixel-perfect UI implementation    
-- Continuous skills refinement  
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/-React-000?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
+
+### Styling
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-000?logo=sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=tailwind-css)
+![MUI](https://img.shields.io/badge/-MUI-000?logo=mui)
+
+### Tools & Libraries
+![Redux](https://img.shields.io/badge/-Redux-000?logo=redux)
+![Axios](https://img.shields.io/badge/-Axios-000?logo=axios)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
 
 ---
 
-## 🌱 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/amr-elmasry66)
-- [Portfolio](https://amr-elmasry3.github.io/portfolio)
+## 📌 Projects
+
+### 🟢 Yalla Chat
+Realtime chat app (text, images, audio, video)  
+https://yallachat.rho.vercel.app
 
 ---
 
-> Always seeking new opportunities to collaborate on innovative projects and tackle complex front-end challenges.  
-> **Let's build something amazing together!** 
+### 🟢 Grogin Grocery
+E-commerce web app with cart & filtering  
+https://amr-elmasry3.github.io/grogin/
+
+---
+
+### 🟢 Typing Speed Test
+Typing game with multiple difficulty levels  
+https://amr-elmasry3.github.io/typing-speed-app/
+
+---
+
+## 📫 Contact Me
+📧 amrelmasry66@gmail.com  
+🔗 https://www.linkedin.com/in/amr-elmasry66
