@@ -43,7 +43,7 @@ I focus on creating responsive, user-friendly interfaces, while continuously imp
 Realtime chat app with text, images, audio, and video messaging.
 
 🔗 Live Demo:  
-https://yallachat.rho.vercel.app
+https://yallachat-rho.vercel.app
 
 📁 Repository:  
 https://github.com/Amr-Elmasry3/yallachat
