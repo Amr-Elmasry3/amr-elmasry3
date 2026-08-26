@@ -76,4 +76,4 @@ https://github.com/Amr-Elmasry3/typing-speed-app
 
 📧 Email: amrelmasry66@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/amr-elmasry66  
-🌐 Portfolio: https://amr-elmasry3.github.io/portfolio
+🌐 Portfolio: https://amr-elmasry-portfolio.vercel.app
