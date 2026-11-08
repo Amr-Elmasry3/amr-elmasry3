@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amr--elmasry66-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elmasry66)
 [![Email](https://img.shields.io/badge/Email-amrelmasry66@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelmasry66@gmail.com)
 
-📍 Egypt &nbsp;•&nbsp; 💻 React.js & Next.js &nbsp;•&nbsp; 🟢 Open to opportunities
+📍 Egypt - Mansoura &nbsp;•&nbsp; 💻 React.js & Next.js &nbsp;•&nbsp; 🟢 Open to opportunities
 
 </div>
 
