@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3178c6&height=200&section=header&text=Amr%20Elmasry&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descSize=20&descAlignY=58" alt="Amr Elmasry" />
 
@@ -110,3 +110,4 @@ I focus on creating responsive, user-friendly interfaces, while continuously imp
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3178c6&height=100&section=footer" alt="footer" />
 
 </div>
+](https://github-readme-stats.vercel.app/api?username=Amr-Elmasry3&show_icons=true&theme=tokyonight&hide_border=true)
