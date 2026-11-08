@@ -84,13 +84,28 @@ I focus on creating responsive, user-friendly interfaces, while continuously imp
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amr-Elmasry3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Elmasry3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amr-Elmasry3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Elmasry3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ## 📫 Contact Me
 
 <div align="center">
 
 📧 **Email:** [amrelmasry66@gmail.com](mailto:amrelmasry66@gmail.com) &nbsp;•&nbsp;
 💼 **LinkedIn:** [amr-elmasry66](https://www.linkedin.com/in/amr-elmasry66) &nbsp;•&nbsp;
-🌐 **Portfolio:** [amr-elmasry-portfolio.vercel.app](https://amr-elmasry-portfolio.vercel.app)
+🌐 **Portfolio:** [amr-elmasry-portfolio.vercel.app](https://amr-elmasry-portfolio.vercel.app/en)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3178c6&height=100&section=footer" alt="footer" />
 
