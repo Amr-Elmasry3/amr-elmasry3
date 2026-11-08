@@ -84,21 +84,6 @@ I focus on creating responsive, user-friendly interfaces, while continuously imp
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amr-Elmasry3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Elmasry3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amr-Elmasry3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Elmasry3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
